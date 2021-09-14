@@ -23,7 +23,7 @@ A predefined YOLO v3 model was retrained to detect fire using `imageai` module w
 
 ## How To Run
 
-Grab the [YOLO model]() and put it in `models` directory.  
+Grab the [YOLO model](https://drive.google.com/file/d/1-ZroDaCrfJcf0OwBcppBKCEek4Eu3Mo3/view?usp=sharing) and put it in `models` directory.  
 
 Install dependencies by:  
 
